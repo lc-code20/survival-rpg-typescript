@@ -1,0 +1,25 @@
+{
+  "name": "survival-rpg-typescript",
+  "version": "1.0.0",
+  "description": "Rewriting the text based rpg game in typescript and exploring the functionality",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc ./index.ts",
+    "run": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lc-code20/survival-rpg-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lc-code20/survival-rpg-typescript/issues"
+  },
+  "homepage": "https://github.com/lc-code20/survival-rpg-typescript#readme"
+}
